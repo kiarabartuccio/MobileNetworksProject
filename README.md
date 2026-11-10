@@ -18,13 +18,14 @@ We will use Field Test Mode to get the signal measurements and compare our resul
 ## How to Reproduce Our Setup
 
 1. Use an iPhone with an active cellular data plan.
-2. 
-3. Read RSRP (Signal Strength) and RSRQ (Signal Quality).
-4. Physically go to two different locations and record the signal strength and network type (LTE or 5G).
-5. Discovered a location with weak or no cellular reception.
-6. Use Speedtest by Google to measure download speed, upload speed, and latency.
-7. Compare the results with a mobile carrier's coverage map app that was downloaded from the apple app store.
-8. Save screenshots and measurements in the evidence/ folder.
+2. Get the Field test mode shortcut (IPhone only): https://www.icloud.com/shortcuts/00a9f75d55b44f9c938aa71f021ae62d
+3. Run the shortcut. 
+4. Read RSRP (Signal Strength) and RSRQ (Signal Quality).
+5. In this shortcut, you can view both the LTE and 5G results at the same time (live). 
+6. Discovered a location with weak or no cellular reception.
+7. Use Speedtest by Google to measure download speed, upload speed, and latency.
+8. Compare the results with a mobile carrier's coverage map app that was downloaded from the apple app store.
+9. Save screenshots and measurements in the evidence/ folder.
 
 
 ## Hardware
